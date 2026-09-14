@@ -142,7 +142,7 @@ or
 1. Clone the repository:
 
 ```
-git clone [https://github.com/Fathir-Afatar/printer-bridge.git](https://github.com/Fathir-Afatar/printer-bridge.git)
+git clone https://github.com/Fathir-Afatar/Printer-Bridge-by-Fathir-Afatar.git
 ```
 ```
 cd printer-bridge-by-fathir-afatar
