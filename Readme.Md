@@ -178,7 +178,7 @@ python print_bridge.py
 ## 📄 Thermal Printer Specification
 > This app working perfectly between my django project (running on VPS) and my thermal printing.
 
-![Printer](/Printer_thermal.jpg)
+![Printer](Images/Printer_thermal.jpg)
 > Printer Thermal EPPOS PLUS 80mm POS80L - USB BLUETOOTH
 
 | Name | Metric |
