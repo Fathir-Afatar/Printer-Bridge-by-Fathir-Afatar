@@ -1,0 +1,33 @@
+# Bytecode & cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+src/build/
+src/dist/
+
+*.pdf
+*.txt
+
+# Environment variable
+*.env
+.env
+
+docs/demo-files
+
+# Executable file 
+*.exe
+*.zip
+
+# File log, temp
+*.log
+*.tmp
+*.bak
+*.zip
+
+
+
+
